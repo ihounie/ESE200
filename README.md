@@ -7,7 +7,7 @@ conda --version
 ```
 which should print the version of conda that you have installed.
 
-You can install miniconda by downloading the latest version of the the installer for your platform (Linux, Mac or Windows) from [this site](https://docs.conda.io/en/latest/miniconda.html). Then you simply have to simply run the downloaded file (you can also find detailed installation instructions [here](https://conda.io/projects/conda/en/latest/user-guide/install/index.html).
+You can install miniconda by downloading the latest version of the the installer for your platform (Linux, Mac or Windows) from [this site](https://docs.conda.io/en/latest/miniconda.html). Then you simply run the downloaded file (you can also find detailed installation instructions [here](https://conda.io/projects/conda/en/latest/user-guide/install/index.html).
 
 Once you installed conda you can create a new environment for the course and install all dependencies by running on a terminal:
 ```
